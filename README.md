@@ -1,5 +1,5 @@
 # Abstract Art Gallery DCGAN
- ##Using DCGAN to generate abstract art
+ ## Using DCGAN to generate abstract art
  
  In this project, the aim is to produce abstract art similar to the ones in https://www.kaggle.com/datasets/bryanb/abstract-art-gallery using Keras.
 
@@ -7,4 +7,4 @@
  
  The second one is DCGAN with noise added to the discriminator in order to improve convergance.
  
- The third one which performs the best utilizes Wasserstein loss function, and it mitigates mode collapse and vanishing gradient
+ The third one which performs the best utilizes **Wasserstein** loss function, and it mitigates mode collapse and vanishing gradient
