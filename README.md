@@ -1,5 +1,5 @@
 # Abstract Art Gallery DCGAN
- ## Using DCGAN to generate abstract art
+ ## Using DCGAN to generate abstract art in Keras
  
  In this project, the aim is to produce abstract art similar to the ones in https://www.kaggle.com/datasets/bryanb/abstract-art-gallery using Keras.
 
